@@ -1,0 +1,20 @@
+[
+  {
+    "category": "General",
+    "guid": "d21307df-37fe-4ef5-a6f6-93560ee410d4",
+    "name": "JellyfinRemote",
+    "description": "A plugin to remotely take control of Jellyfin Server running Windows 11.",
+    "owner": "Ajoro",
+    "overview": "Remotely control your Jellyfin Server on Windows 11.",
+    "versions": [
+      {
+        "version": "0.0.1",
+        "targetAbi": "10.8.0.0",
+        "changelog": "Initial release.",
+        "checksum": "49e8e34ace5d5a4204f2153db524e16352012b67dc15015b53d198918c5716db",
+        "sourceUrl": "https://github.com/Ajoro/JellyfinRemote/releases/download/v0.0.0.1/JellyfinRemote.zip",
+        "timestamp": "2020-03-27 06:02:58"
+      }
+    ]
+  }
+]
